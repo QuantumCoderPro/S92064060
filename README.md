@@ -3,7 +3,15 @@
   </div>
 <h1 align="center">Hi 👋, I'm Mohammed Safran</h1>
 <h3 align="center">Software Engineering Undergraduate from Sri Lanka</h3>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=S92064060&style=flat-square&color=blue" alt=""/>
+</div>
+<div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -46,3 +54,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s92064060&show_icons=true&locale=en&layout=compact" alt="s92064060" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s92064060&show_icons=true&locale=en" alt="s92064060" /></p>
+
